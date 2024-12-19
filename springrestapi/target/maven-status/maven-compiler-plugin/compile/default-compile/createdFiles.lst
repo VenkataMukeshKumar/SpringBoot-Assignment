@@ -1,0 +1,6 @@
+com\example\springrestapi\SpringrestapiApplication.class
+com\example\springrestapi\services\UserServiceImpl.class
+com\example\springrestapi\repository\UserRepository.class
+com\example\springrestapi\entities\User.class
+com\example\springrestapi\controller\MyController.class
+com\example\springrestapi\services\UserServices.class
